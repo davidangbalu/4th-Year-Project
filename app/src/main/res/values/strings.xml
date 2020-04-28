@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MeetUp</string>
+    <string name="MeetUpFont">sans-serif-medium</string>
+    <string name="MeetUpLogo">Meet Up !</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">LOGIN</string>
+    <string name="login_reg_text">NEED A NEW ACCOUNT?</string>
+    <string name="register_title">sans-serif-medium</string>
+    <string name="register_title_text">Create New Account</string>
+    <string name="confirm_password_text">Confirm Password</string>
+    <string name="creatre_account_text">CREATE ACCOUNT</string>
+    <string name="reg_login_text">ALREADY REGISTERED?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_name">Enter your name...</string>
+    <string name="save_profile">SAVE PROFILE</string>
+    <string name="logout">LOGOUT</string>
+    <string name="type_in_a_status">Type in a status...</string>
+</resources>

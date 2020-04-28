@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "945247707327",
+    "firebase_url": "https://meetup-2c2bb.firebaseio.com",
+    "project_id": "meetup-2c2bb",
+    "storage_bucket": "meetup-2c2bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945247707327:android:ac9d95f6a0d478f68b260a",
+        "android_client_info": {
+          "package_name": "com.davidangbalu.meetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945247707327-2hurheah2eip684ibq2dr24qo1ecau8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByiLC-ZY7d-naHq5XeYrvQ2lX7HSwwJkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945247707327-2hurheah2eip684ibq2dr24qo1ecau8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
